@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0jordanmiller/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0jordanmiller/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/0jordanmiller/Constructor-Word-Guess#readme"
+}
