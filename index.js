@@ -3,7 +3,7 @@
 var Word = require('./word.js');
 var inquirer = require('inquirer');
 
-var wordArray = ['Jordan', 'Miller'];
+var wordArray = ['hamburger', 'donut', 'lo mein'];
 
 
 function startGame() {
